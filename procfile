@@ -1,0 +1,1 @@
+web: gunicorn lab2_bai.wsgi --log-file -
